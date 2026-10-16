@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Integração, análise estatística e análise crítica de dados com R</strong><br/>
-  Desafio Técnico · 50 registros · Período 2017–2026
+  Desafio Técnico · 50 registros · Período 2017 - 2026
 </p>
 
 <p align="center">
